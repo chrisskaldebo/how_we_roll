@@ -1,4 +1,3 @@
 # how_we_roll
-visittkort_chris
 
-lagde visittkort relatert til how we roll oppgave i is-114
+Laget visittkort i anledning how-we-roll oppgaven i IS-114
